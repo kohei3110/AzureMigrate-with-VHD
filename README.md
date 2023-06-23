@@ -4,7 +4,7 @@
 
 以下のボタンを押下し、ハンズオンに使用するリソースを展開。
 
-<a href="">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkohei3110%2FAzureMigrate-with-VHD%2Fmain%2Ftemplates%2Fresources.json">
   <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
 
